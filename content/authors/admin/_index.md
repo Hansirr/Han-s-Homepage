@@ -1,12 +1,12 @@
 ---
 title: Han Zheng 郑 翰
-role: Professor of Artificial Intelligence
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+role: Ph.D.Candidate
+bio: My research interests include vehicular learning, decentralized learning
+  and mobile computing.
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Vehicular learning
+  - Decentralized learning
+  - Mobile computing.
 social:
   - icon: envelope
     icon_pack: fas
@@ -51,6 +51,5 @@ highlight_name: true
 first_name: Alice
 email: ""
 ---
-
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Han Zheng is a phd candidate at the Stony Brook MOCA lab. His research interests include vehicular learning, decentralized learning, and mobile computing.
 {style="text-align: justify;"}
