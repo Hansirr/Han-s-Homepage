@@ -25,15 +25,15 @@ organizations:
     url: https://www.stonybrook.edu/
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
+    - course: PhD candidate in Computer Engineering
+      institution: Stony Brook University
+      year: ""
+    - course: MEng in Computer Science and Technology
+      institution: USTC
+      year: 2021
     - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+      institution: UESTC
+      year: 2018
 superuser: true
 status:
   icon: ☕️
