@@ -10,7 +10,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: /#contact
+    link: han.zheng@stonybrook.edu
   - icon: graduation-cap
     icon_pack: fas
     link: https://scholar.google.com/citations?hl=en&authuser=1&user=Kq3qH1AAAAAJ
