@@ -7,7 +7,7 @@ bio: My research interests include vehicular learning, decentralized learning
 interests:
   - Vehicular learning
   - Decentralized learning
-  - Mobile computing.
+  - Mobile computing
 social:
   - icon: envelope
     icon_pack: fas
