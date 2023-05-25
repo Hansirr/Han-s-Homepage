@@ -29,10 +29,10 @@ education:
     - course: PhD candidate in Computer Engineering
       institution: Stony Brook University
       year: ""
-    - course: MEng in Computer Science and Technology
+    - course: MEng in Computer Science and Tech.
       institution: USTC
       year: 2021
-    - course: BSc in Artificial Intelligence
+    - course: BSc in Computer Science and Tech.
       institution: UESTC
       year: 2018
 superuser: true
