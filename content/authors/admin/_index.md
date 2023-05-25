@@ -13,7 +13,7 @@ social:
     link: /#contact
   - icon: graduation-cap
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?hl=en&authuser=1&user=Kq3qH1AAAAAJ
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/han-zheng-3334051b4/
