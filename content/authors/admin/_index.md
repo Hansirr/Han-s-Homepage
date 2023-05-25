@@ -1,6 +1,7 @@
 ---
 title: Han Zheng 郑 翰
 role: Ph.D.Candidate
+avatar_filename: 图片_20230524213911.jpg
 bio: My research interests include vehicular learning, decentralized learning
   and mobile computing.
 interests:
